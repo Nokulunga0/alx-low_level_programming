@@ -2,8 +2,8 @@
 #include <stdlib.h>
 /**
  * add_nodeint -  adds a new node at the beginning of a list
- * @n:
- * @head:
+ * @n: holds new inserted node
+ * @head: points to  first node in the list
  *
  * Return: the address of the new element, or NULL if it failed
  */
